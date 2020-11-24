@@ -167,15 +167,4 @@ body {
   }
 }
 
-.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
-  color: #ecf0f1;
-}
-.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
-.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
-  color: #ecdbff;
-}
-.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
-  color: #ecdbff;
-  background-color: #7a2626;
-}
  
